@@ -22,3 +22,9 @@ function newfeatureD(){
     console.log('new feature is added D')
     console.log('this this about the forgot passowrd')
 }
+
+
+function newfeatureE(){
+     console.log('new feature is added E')
+    console.log('this this about the Email verification')
+}
