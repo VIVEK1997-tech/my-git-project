@@ -1,8 +1,8 @@
 console.log("hello world");
 
-const a='aditya yadav'
+const user='shivam yadav'
 
-console.log(a);
+console.log(user);
 
 function newFeature(){
 console.log('new featured is added A');
