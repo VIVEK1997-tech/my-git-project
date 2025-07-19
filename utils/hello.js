@@ -27,4 +27,9 @@ function newfeatureD(){
 function newfeatureE(){
      console.log('new feature is added E')
     console.log('this this about the Email verification')
+    console.log('new feature is added E')
+    console.log('new feature is added E')
+    console.log('new feature is added E')
+    console.log('new feature is added E')
+    console.log('new feature is added E')
 }
